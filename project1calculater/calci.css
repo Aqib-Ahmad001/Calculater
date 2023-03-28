@@ -1,0 +1,57 @@
+*{
+    padding: 0;
+    margin: 0;
+   
+}
+body{
+    background-color: rgb(122, 2, 26);
+
+}
+.main{
+text-align: center;
+
+
+
+}
+h1{
+color:chocolate;
+border-radius: 10px;
+margin-bottom: 30px;
+
+}
+.a1{
+padding: 2%;
+height: 10vh;
+width: 18vw;
+border-radius: 5px;
+margin-bottom: 2.5px;
+font-weight: bold;
+font-size: x-large;
+cursor: pointer;
+/* color: white; */
+}
+.a1:hover{
+    background-color:black;
+    color: white;
+}
+.a2{
+background-color: rgb(250, 21, 21);
+color: white;
+}
+.b2{
+   background-color: rgb(85, 204, 116);
+   color: white;
+}
+.input{
+padding: 1.40%;
+width: 69.7%;
+float: right;
+margin-right: 13.7%;
+font-size: x-large;
+font-weight: bold;
+border-radius: 5px;
+color: white;
+background-color: rgb(73, 16, 39);
+text-align: end;
+
+}
